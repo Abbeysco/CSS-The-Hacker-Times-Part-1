@@ -1,0 +1,21 @@
+{
+  "name": "css-the-hacker-times-part-1",
+  "version": "1.0.0",
+  "description": "npm install",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git add -A"
+  },
+  "keywords": [
+    "git",
+    "commit",
+    "-m\"npm",
+    "installed"
+  ],
+  "author": "Abbey",
+  "license": "ISC"
+}
